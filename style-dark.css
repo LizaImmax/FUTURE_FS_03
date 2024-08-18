@@ -1,0 +1,33 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.container {
+    background: #1e1e1e;
+    border: 1px solid #333;
+}
+
+h1, .input-group, #taskList {
+    color: #e0e0e0;
+}
+
+#taskInput {
+    background-color: #333;
+    color: #e0e0e0;
+    border: 1px solid #555;
+}
+
+#addTaskBtn {
+    background-color: #3a3a3a;
+    color: #e0e0e0;
+}
+
+.task {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+}
+
+.deleteBtn {
+    background-color: #b71c1c;
+}
